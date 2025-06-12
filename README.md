@@ -20,13 +20,13 @@ This script takes an input image (`input.jpeg`), removes its background, and sav
 
 ## Before
 
-![Demo image of the project](assets/images/input.jpeg)
+![Demo image of the project](input.jpeg)
 
 ---
 
 ## After
 
-![Demo image of the project](assets/images/output.png)
+![Demo image of the project](output.png)
 
 ---
 
