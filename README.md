@@ -18,15 +18,19 @@ This script takes an input image (`input.jpeg`), removes its background, and sav
 
 ---
 
-## Before
+## Before vs After
 
-![Demo image of the project](input.jpeg)
+<p align="center">
+  <img src="input.jpeg" alt="Before" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="output.png" alt="After" width="200"/>
+</p>
 
----
-
-## After
-
-![Demo image of the project](output.png)
+<p align="center">
+  <strong>Before</strong> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <strong>After</strong>
+</p>
 
 ---
 
